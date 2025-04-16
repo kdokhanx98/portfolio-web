@@ -1,0 +1,157 @@
+[
+  {
+    "id": "1",
+    "title": "Repocket",
+    "shortDescription": "The best passive income app you’ll ever come across.",
+    "description": "Repocket helps you earn by sharing your internet connection, allowing you to reach your unused internet's full potential. We created Repocket so anyone with access to the internet can quickly start making some side income without any hassle.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Repocket/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Repocket/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Repocket/app-screen-3.png"
+    ],
+    "appStoreUrl": "https://apps.apple.com/eg/app/repocket-make-money-online/id6443986417",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.repocket&hl=en",
+    "technologies": [
+      "Flutter",
+      "MongoDB",
+      "Firebase Authentcation",
+      "Shorebird",
+      "Dart",
+      "Socket",
+      "SDK"
+    ],
+    "completionDate": "2025-01-15T00:00:00.000Z",
+    "features": [
+      "P2P Socket Connections for Network Sharing",
+      "Firebase Authentication & User Management",
+      "Firebase Analytics & Crashlytics Integration",
+      "MongoDB Database Integration",
+      "Dynamic Links for Referral System",
+      "Third-party Offer Walls Integration",
+      "Custom SDK Development",
+      "Real-time Network Performance Monitoring",
+      "Multi-Language Support",
+      "Secure Payment Processing"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Elithair",
+    "shortDescription": "The ElitApp is your reliable companion for radiantly full hair!",
+    "description": "The ElitApp is your reliable companion for radiantly full hair! Registration takes place with your personal access code. Start your treatment perfectly prepared, you will receive important information about your trip to Istanbul and you will be reminded of all aftercare steps right up to the end result.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Elithair/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Elithair/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Elithair/app-screen-3.png"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/elithair/id1615545501",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mhc.elithair&hl=en",
+    "technologies": [
+      "Flutter",
+      "Firebase",
+      "SharedPreferenced",
+      "CRM",
+      "Dart",
+      "Provider",
+      "API"
+    ],
+    "completionDate": "2023-01-15T00:00:00.000Z",
+    "features": [
+      "User Authentication & Profile Management",
+      "Post-Operation Calendar & Task Tracking",
+      "Progress Photo Upload & Management",
+      "Flight & Travel Information Integration",
+      "Product Catalog with Shopping Cart",
+      "Operation Day Timeline & Instructions",
+      "Doctor-Patient Communication Portal",
+      "Offline Data Storage with SharedPreferences",
+      "CRM System Integration",
+      "Multi-Language Support"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "ISLAMIwallet",
+    "shortDescription": "Discover ISLAMIwallet – Your Gateway to Halal Crypto Management",
+    "description": "Secure, Multi-Network Support: Experience unparalleled security and flexibility with ISLAMIwallet, the world's first wallet supporting POL, ETH, SOL, iChain, and TRON networks. Effortlessly send, receive, and manage your digital assets across multiple chains using a single, intuitive interface.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/IslamiWallet/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/IslamiWallet/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/IslamiWallet/app-screen-3.png"
+    ],
+    "appStoreUrl": "https://apps.apple.com/us/app/islamiwallet/id1631212925",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.islami.wallet",
+    "technologies": [
+      "Flutter",
+      "Firebase",
+      "Blockchain",
+      "Web3",
+      "Dart",
+      "GetX",
+      "Payments API"
+    ],
+    "completionDate": "2023-01-15T00:00:00.000Z",
+    "features": [
+      "Multi-Network Support (POL, ETH, SOL, iChain, TRON)",
+      "Secure Crypto Asset Management",
+      "Cross-Chain Token Transfers",
+      "Real-time Market Data and Price Tracking",
+      "Biometric Authentication",
+      "QR Code Scanning for Easy Transfers",
+      "Transaction History and Analytics",
+      "Multi-Language Support",
+      "Backup and Recovery Options",
+      "24/7 Customer Support"
+    ]
+  },
+
+  {
+    "id": "4",
+    "title": "Minecraft Skins App",
+    "shortDescription": "A feature-rich Minecraft skins application with user collections, favorites, and in-app purchases.",
+    "description": "A comprehensive Minecraft skins application that allows users to browse, save, and manage their favorite Minecraft skins. The app features user authentication, cloud storage for collections, offline support, and premium content through in-app purchases. Users can browse through categories, search for skins, save favorites, and access their collections across devices.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/minecraft-skins-app/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/minecraft-skins-app/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/minecraft-skins-app/app-screen-3.png"
+    ],
+    "appStoreUrl": "",
+    "playStoreUrl": "",
+    "technologies": ["Flutter", "Firebase", "Google Payments", "Google Ads"],
+    "completionDate": "2021-01-15T00:00:00.000Z",
+    "features": [
+      "User authentication with Firebase",
+      "Cloud storage for skin collections and favorites",
+      "Offline mode with SharedPreferences local storage",
+      "In-app purchases with Google Payments",
+      "Monetization through Google Ads",
+      "Search and filtering capabilities",
+      "Cross-device synchronization"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Spoty",
+    "shortDescription": "GPS location tracking app that helps you locate your family members on the map.",
+    "description": "GPS location tracking app that helps you locate your family members on the map. Protect and connect the people who matter most with Spoty safety features.",
+    "imageUrls": [
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-3.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-4.png"
+    ],
+    "appStoreUrl": "",
+    "playStoreUrl": "",
+    "technologies": ["Flutter", "Firebase", "Google Maps", "Location Services"],
+    "completionDate": "2020-12-01T00:00:00.000Z",
+    "features": [
+      "Real-time location tracking using Firebase",
+      "User authentication with Firebase",
+      "Interactive maps with Google Maps integration",
+      "Family member location monitoring",
+      "Background location updates",
+      "Location history tracking",
+      "Safety alerts and notifications"
+    ]
+  }
+]
