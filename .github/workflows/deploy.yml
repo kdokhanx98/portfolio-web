@@ -11,21 +11,28 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: subosito/flutter-action@v2
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
         with:
+          flutter-version: '3.19.0'
           channel: 'stable'
-          
+          cache: true
+
       - name: Install dependencies
         run: flutter pub get
-        
-      - name: Build Web
-        run: flutter build web --release --base-href "/portfolio/"
-        
-      - name: Copy 404.html
-        run: cp build/web/index.html build/web/404.html
-        
-      - name: Deploy
+
+      - name: Build web app
+        run: |
+          flutter build web --release --base-href "/portfolio-web/"
+          cp build/web/index.html build/web/404.html
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
+        if: success()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build/web 
+          publish_dir: ./build/web
+          force_orphan: true
+          commit_message: "Deploy to GitHub Pages"
+          enable_jekyll: false 
