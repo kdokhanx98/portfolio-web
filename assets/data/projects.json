@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce App",
+    "shortDescription": "A full-featured e-commerce application with product catalog, shopping cart, and payment integration.",
+    "description": "A comprehensive e-commerce solution built with Flutter that provides a seamless shopping experience. The app features a beautiful and intuitive interface, real-time product updates, secure payment processing, and a robust shopping cart system. Users can browse through categories, search for products, save favorites, and track their orders in real-time.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1698675951502-82e699d40f66?w=3072&h=3072&fit=crop"
+    ],
+    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
+    "technologies": ["Flutter", "Firebase", "Stripe", "GetX"],
+    "completionDate": "2024-01-15T00:00:00.000Z",
+    "features": [
+      "User authentication with social media integration",
+      "Real-time product catalog with search and filtering",
+      "Secure payment processing with multiple payment methods",
+      "Order tracking and history",
+      "Wishlist and favorites management",
+      "Push notifications for order updates",
+      "Offline support with local caching"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Fitness Tracker",
+    "shortDescription": "A comprehensive fitness tracking app with workout plans, progress tracking, and nutrition logging.",
+    "description": "A feature-rich fitness companion app that helps users achieve their health and fitness goals. The app provides personalized workout plans, detailed progress tracking, and comprehensive nutrition logging. Users can track their workouts, monitor their progress with detailed analytics, and maintain a food diary with nutritional information.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1605296867424-35fc25c9212a?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1461773518188-b3e86f98242f?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1493666438817-866a91353ca9?w=3072&h=3072&fit=crop"
+    ],
+    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
+    "technologies": ["Flutter", "SQLite", "Provider", "Charts"],
+    "completionDate": "2023-12-01T00:00:00.000Z",
+    "features": [
+      "Customizable workout plans with video guides",
+      "Progress tracking with detailed charts and analytics",
+      "Nutrition tracking with barcode scanner",
+      "Body measurements and progress photos",
+      "Exercise library with proper form guides",
+      "Integration with health apps",
+      "Social features for workout sharing"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Social Media Dashboard",
+    "shortDescription": "An all-in-one social media management platform for businesses and influencers.",
+    "description": "A powerful social media management tool that helps businesses and influencers manage their social media presence effectively. The app provides comprehensive analytics, content scheduling, engagement tracking, and automated posting features across multiple platforms. Users can manage all their social media accounts from a single, intuitive dashboard.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1573152958734-1922c188fba3?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=3072&h=3072&fit=crop"
+    ],
+    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
+    "technologies": ["Flutter", "Node.js", "MongoDB", "Bloc"],
+    "completionDate": "2023-09-15T00:00:00.000Z",
+    "features": [
+      "Multi-platform social media management",
+      "Advanced analytics and reporting",
+      "Automated post scheduling",
+      "Content calendar management",
+      "Team collaboration tools",
+      "Engagement tracking and insights",
+      "Custom report generation"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Smart Home Controller",
+    "shortDescription": "IoT-based smart home automation system with voice control and energy monitoring.",
+    "description": "An innovative smart home solution that brings complete control of your home to your fingertips. The app integrates with various IoT devices, providing seamless automation, voice control, and real-time monitoring of your home's energy consumption. Features include smart lighting, climate control, security systems, and automated routines.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=3072&h=3072&fit=crop"
+    ],
+    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
+    "technologies": ["Flutter", "MQTT", "AWS IoT", "Riverpod"],
+    "completionDate": "2023-11-01T00:00:00.000Z",
+    "features": [
+      "Voice control integration",
+      "Real-time energy monitoring",
+      "Automated routines and schedules",
+      "Security camera integration",
+      "Climate control optimization",
+      "Remote access and control",
+      "Energy usage analytics"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Language Learning App",
+    "shortDescription": "Interactive language learning platform with AI-powered pronunciation feedback.",
+    "description": "An engaging language learning application that combines modern teaching methodologies with advanced technology. The app features AI-powered pronunciation feedback, personalized learning paths, and interactive exercises. Users can practice speaking, reading, writing, and listening skills through gamified lessons and real-world scenarios.",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1546549032-9571cd6b27df?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=3072&h=3072&fit=crop",
+      "https://images.unsplash.com/photo-1543109740-4bdb38fda756?w=3072&h=3072&fit=crop"
+    ],
+    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
+    "technologies": ["Flutter", "TensorFlow", "Firebase ML", "MobX"],
+    "completionDate": "2024-02-01T00:00:00.000Z",
+    "features": [
+      "AI-powered pronunciation feedback",
+      "Personalized learning paths",
+      "Interactive speaking exercises",
+      "Vocabulary tracking and review",
+      "Progress assessment and testing",
+      "Offline lesson downloads",
+      "Community learning features"
+    ]
+  }
+]
