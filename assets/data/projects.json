@@ -1,126 +1,157 @@
 [
   {
     "id": "1",
-    "title": "E-Commerce App",
-    "shortDescription": "A full-featured e-commerce application with product catalog, shopping cart, and payment integration.",
-    "description": "A comprehensive e-commerce solution built with Flutter that provides a seamless shopping experience. The app features a beautiful and intuitive interface, real-time product updates, secure payment processing, and a robust shopping cart system. Users can browse through categories, search for products, save favorites, and track their orders in real-time.",
+    "title": "Repocket",
+    "shortDescription": "The best passive income app you’ll ever come across.",
+    "description": "Repocket helps you earn by sharing your internet connection, allowing you to reach your unused internet's full potential. We created Repocket so anyone with access to the internet can quickly start making some side income without any hassle.",
     "imageUrls": [
-      "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1698675951502-82e699d40f66?w=3072&h=3072&fit=crop"
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Repocket/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Repocket/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Repocket/app-screen-3.png"
     ],
-    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
-    "technologies": ["Flutter", "Firebase", "Stripe", "GetX"],
-    "completionDate": "2024-01-15T00:00:00.000Z",
+    "appStoreUrl": "https://apps.apple.com/eg/app/repocket-make-money-online/id6443986417",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.repocket&hl=en",
+    "technologies": [
+      "Flutter",
+      "MongoDB",
+      "Firebase Authentcation",
+      "Shorebird",
+      "Dart",
+      "Socket",
+      "SDK"
+    ],
+    "completionDate": "2025-01-15T00:00:00.000Z",
     "features": [
-      "User authentication with social media integration",
-      "Real-time product catalog with search and filtering",
-      "Secure payment processing with multiple payment methods",
-      "Order tracking and history",
-      "Wishlist and favorites management",
-      "Push notifications for order updates",
-      "Offline support with local caching"
+      "P2P Socket Connections for Network Sharing",
+      "Firebase Authentication & User Management",
+      "Firebase Analytics & Crashlytics Integration",
+      "MongoDB Database Integration",
+      "Dynamic Links for Referral System",
+      "Third-party Offer Walls Integration",
+      "Custom SDK Development",
+      "Real-time Network Performance Monitoring",
+      "Multi-Language Support",
+      "Secure Payment Processing"
     ]
   },
   {
     "id": "2",
-    "title": "Fitness Tracker",
-    "shortDescription": "A comprehensive fitness tracking app with workout plans, progress tracking, and nutrition logging.",
-    "description": "A feature-rich fitness companion app that helps users achieve their health and fitness goals. The app provides personalized workout plans, detailed progress tracking, and comprehensive nutrition logging. Users can track their workouts, monitor their progress with detailed analytics, and maintain a food diary with nutritional information.",
+    "title": "Elithair",
+    "shortDescription": "The ElitApp is your reliable companion for radiantly full hair!",
+    "description": "The ElitApp is your reliable companion for radiantly full hair! Registration takes place with your personal access code. Start your treatment perfectly prepared, you will receive important information about your trip to Istanbul and you will be reminded of all aftercare steps right up to the end result.",
     "imageUrls": [
-      "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1605296867424-35fc25c9212a?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1461773518188-b3e86f98242f?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1493666438817-866a91353ca9?w=3072&h=3072&fit=crop"
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Elithair/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Elithair/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/Elithair/app-screen-3.png"
     ],
-    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
-    "technologies": ["Flutter", "SQLite", "Provider", "Charts"],
-    "completionDate": "2023-12-01T00:00:00.000Z",
+    "appStoreUrl": "https://apps.apple.com/us/app/elithair/id1615545501",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.mhc.elithair&hl=en",
+    "technologies": [
+      "Flutter",
+      "Firebase",
+      "SharedPreferenced",
+      "CRM",
+      "Dart",
+      "Provider",
+      "API"
+    ],
+    "completionDate": "2023-01-15T00:00:00.000Z",
     "features": [
-      "Customizable workout plans with video guides",
-      "Progress tracking with detailed charts and analytics",
-      "Nutrition tracking with barcode scanner",
-      "Body measurements and progress photos",
-      "Exercise library with proper form guides",
-      "Integration with health apps",
-      "Social features for workout sharing"
+      "User Authentication & Profile Management",
+      "Post-Operation Calendar & Task Tracking",
+      "Progress Photo Upload & Management",
+      "Flight & Travel Information Integration",
+      "Product Catalog with Shopping Cart",
+      "Operation Day Timeline & Instructions",
+      "Doctor-Patient Communication Portal",
+      "Offline Data Storage with SharedPreferences",
+      "CRM System Integration",
+      "Multi-Language Support"
     ]
   },
   {
     "id": "3",
-    "title": "Social Media Dashboard",
-    "shortDescription": "An all-in-one social media management platform for businesses and influencers.",
-    "description": "A powerful social media management tool that helps businesses and influencers manage their social media presence effectively. The app provides comprehensive analytics, content scheduling, engagement tracking, and automated posting features across multiple platforms. Users can manage all their social media accounts from a single, intuitive dashboard.",
+    "title": "ISLAMIwallet",
+    "shortDescription": "Discover ISLAMIwallet – Your Gateway to Halal Crypto Management",
+    "description": "Secure, Multi-Network Support: Experience unparalleled security and flexibility with ISLAMIwallet, the world's first wallet supporting POL, ETH, SOL, iChain, and TRON networks. Effortlessly send, receive, and manage your digital assets across multiple chains using a single, intuitive interface.",
     "imageUrls": [
-      "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1573152958734-1922c188fba3?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=3072&h=3072&fit=crop"
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/IslamiWallet/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/IslamiWallet/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/IslamiWallet/app-screen-3.png"
     ],
-    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
-    "technologies": ["Flutter", "Node.js", "MongoDB", "Bloc"],
-    "completionDate": "2023-09-15T00:00:00.000Z",
+    "appStoreUrl": "https://apps.apple.com/us/app/islamiwallet/id1631212925",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.islami.wallet",
+    "technologies": [
+      "Flutter",
+      "Firebase",
+      "Blockchain",
+      "Web3",
+      "Dart",
+      "GetX",
+      "Payments API"
+    ],
+    "completionDate": "2023-01-15T00:00:00.000Z",
     "features": [
-      "Multi-platform social media management",
-      "Advanced analytics and reporting",
-      "Automated post scheduling",
-      "Content calendar management",
-      "Team collaboration tools",
-      "Engagement tracking and insights",
-      "Custom report generation"
+      "Multi-Network Support (POL, ETH, SOL, iChain, TRON)",
+      "Secure Crypto Asset Management",
+      "Cross-Chain Token Transfers",
+      "Real-time Market Data and Price Tracking",
+      "Biometric Authentication",
+      "QR Code Scanning for Easy Transfers",
+      "Transaction History and Analytics",
+      "Multi-Language Support",
+      "Backup and Recovery Options",
+      "24/7 Customer Support"
     ]
   },
+
   {
     "id": "4",
-    "title": "Smart Home Controller",
-    "shortDescription": "IoT-based smart home automation system with voice control and energy monitoring.",
-    "description": "An innovative smart home solution that brings complete control of your home to your fingertips. The app integrates with various IoT devices, providing seamless automation, voice control, and real-time monitoring of your home's energy consumption. Features include smart lighting, climate control, security systems, and automated routines.",
+    "title": "Minecraft Skins App",
+    "shortDescription": "A feature-rich Minecraft skins application with user collections, favorites, and in-app purchases.",
+    "description": "A comprehensive Minecraft skins application that allows users to browse, save, and manage their favorite Minecraft skins. The app features user authentication, cloud storage for collections, offline support, and premium content through in-app purchases. Users can browse through categories, search for skins, save favorites, and access their collections across devices.",
     "imageUrls": [
-      "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=3072&h=3072&fit=crop"
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/minecraft-skins-app/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/minecraft-skins-app/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/minecraft-skins-app/app-screen-3.png"
     ],
-    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
-    "technologies": ["Flutter", "MQTT", "AWS IoT", "Riverpod"],
-    "completionDate": "2023-11-01T00:00:00.000Z",
+    "appStoreUrl": "",
+    "playStoreUrl": "",
+    "technologies": ["Flutter", "Firebase", "Google Payments", "Google Ads"],
+    "completionDate": "2021-01-15T00:00:00.000Z",
     "features": [
-      "Voice control integration",
-      "Real-time energy monitoring",
-      "Automated routines and schedules",
-      "Security camera integration",
-      "Climate control optimization",
-      "Remote access and control",
-      "Energy usage analytics"
+      "User authentication with Firebase",
+      "Cloud storage for skin collections and favorites",
+      "Offline mode with SharedPreferences local storage",
+      "In-app purchases with Google Payments",
+      "Monetization through Google Ads",
+      "Search and filtering capabilities",
+      "Cross-device synchronization"
     ]
   },
   {
     "id": "5",
-    "title": "Language Learning App",
-    "shortDescription": "Interactive language learning platform with AI-powered pronunciation feedback.",
-    "description": "An engaging language learning application that combines modern teaching methodologies with advanced technology. The app features AI-powered pronunciation feedback, personalized learning paths, and interactive exercises. Users can practice speaking, reading, writing, and listening skills through gamified lessons and real-world scenarios.",
+    "title": "Spoty",
+    "shortDescription": "GPS location tracking app that helps you locate your family members on the map.",
+    "description": "GPS location tracking app that helps you locate your family members on the map. Protect and connect the people who matter most with Spoty safety features.",
     "imageUrls": [
-      "https://images.unsplash.com/photo-1546549032-9571cd6b27df?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=3072&h=3072&fit=crop",
-      "https://images.unsplash.com/photo-1543109740-4bdb38fda756?w=3072&h=3072&fit=crop"
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-1.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-2.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-3.png",
+      "https://raw.githubusercontent.com/kdokhanx98/portfolio-assets/main/images/gps-location-tracker/app-screen-4.png"
     ],
-    "appStoreUrl": "https://apps.apple.com/app/your-app-id",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=your.app.id",
-    "technologies": ["Flutter", "TensorFlow", "Firebase ML", "MobX"],
-    "completionDate": "2024-02-01T00:00:00.000Z",
+    "appStoreUrl": "",
+    "playStoreUrl": "",
+    "technologies": ["Flutter", "Firebase", "Google Maps", "Location Services"],
+    "completionDate": "2020-12-01T00:00:00.000Z",
     "features": [
-      "AI-powered pronunciation feedback",
-      "Personalized learning paths",
-      "Interactive speaking exercises",
-      "Vocabulary tracking and review",
-      "Progress assessment and testing",
-      "Offline lesson downloads",
-      "Community learning features"
+      "Real-time location tracking using Firebase",
+      "User authentication with Firebase",
+      "Interactive maps with Google Maps integration",
+      "Family member location monitoring",
+      "Background location updates",
+      "Location history tracking",
+      "Safety alerts and notifications"
     ]
   }
 ]
